@@ -74,7 +74,7 @@ class PageContent extends StatelessWidget {
                     child: Container(
                       height: 100,
                       child: Column(
-                        //crossAxisAlignment: CrossAxisAlignment.stretch,
+                        
                         children: [
                           CustomContainerWithIcon(
                             iconData: Icons.local_offer_outlined,
